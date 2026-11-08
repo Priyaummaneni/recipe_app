@@ -1,3 +1,4 @@
+
 # 🍽️ Recipe App
 
 A Flutter-based Recipe Application designed to help users explore, discover, and manage recipes in one convenient place.
@@ -81,7 +82,7 @@ This project was collaboratively developed by a team of three members as part of
 **Team Members:**
 
 1. **Priya Ummaneni** – Team Member
-2. **team member 2** – Team Member
+2. **u.vishnureddy** – Team Member
 3. **Team Member 3** – Team Member
 
 We sincerely thank all team members for their contributions, teamwork, ideas, and efforts in developing this Recipe App.
