@@ -74,13 +74,25 @@ flutter pub get
 flutter run
 ```
 
-## 👩‍💻 Project Ownership
+## 👥 Team Members & Credits
 
-**Project Owner:** Priya Umm aneni
+This project was collaboratively developed by a team of three members as part of our Flutter Programming Project.
 
-**Project Type:** Individual Project
+**Team Members:**
 
-**Repository:** https://github.com/Priyaummaneni/recipe_app
+1. **Priya Umm Aneni** – Team Member
+2. **team member 2** – Team Member
+3. **Team Member 3** – Team Member
+
+We sincerely thank all team members for their contributions, teamwork, ideas, and efforts in developing this Recipe App.
+
+**Project Type:** Team Project
+
+**GitHub Repository Owner:** Priya Umm Aneni
+
+## 🎓 Academic Project
+
+Developed as part of the Flutter Programming Project.
 
 ## 🎓 Academic Project
 
