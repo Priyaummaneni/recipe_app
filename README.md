@@ -88,7 +88,7 @@ We sincerely thank all team members for their contributions, teamwork, ideas, an
 
 **Project Type:** Team Project
 
-**GitHub Repository Owner:** Priya Umm Aneni
+**GitHub Repository Owner:** Priya Ummaneni
 
 ## 🎓 Academic Project
 
