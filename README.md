@@ -80,7 +80,7 @@ This project was collaboratively developed by a team of three members as part of
 
 **Team Members:**
 
-1. **Priya Umm Aneni** – Team Member
+1. **Priya Ummaneni** – Team Member
 2. **team member 2** – Team Member
 3. **Team Member 3** – Team Member
 
