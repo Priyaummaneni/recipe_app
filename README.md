@@ -84,6 +84,10 @@ This project was collaboratively developed by a team of three members as part of
 1. **Priya Ummaneni** – Team Member
 2. **u.vishnureddy** – Team Member
 3. **T.venkateswarlu** – Team Member
+### Technologies used ###
+-Flutter
+-Dart
+-Andriod Stdio 
 
 We sincerely thank all team members for their contributions, teamwork, ideas, and efforts in developing this Recipe App.
 
