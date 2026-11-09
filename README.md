@@ -85,9 +85,9 @@ This project was collaboratively developed by a team of three members as part of
 2. **u.vishnureddy** 
 3. **T.venkateswarlu** 
 ### Technologies used ###
-**Flutter**
-**Dart**
-**Andriod Stdio** 
+1. **Flutter**
+2. **Dart**
+3. **Andriod Stdio** 
 
 We sincerely thank all team members for their contributions, teamwork, ideas, and efforts in developing this Recipe App.
 
